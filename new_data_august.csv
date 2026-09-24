@@ -1,0 +1,8 @@
+property_id,property_name,category,city,room_category,room_class,check_in_date,mmm yy,week no,day_type,successful_bookings,capacity,occ%
+21559,365 Luxe Exotica,Luxury,Abu Dhabi,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,30,30,100.0
+24562,365 Ocean Bay,Luxury,Ras Al Khaimah,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,21,30,70.0
+24563,365 Majestic Palace,Business,Ras Al Khaimah,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,23,30,76.67
+24558,365 Royal Grands,Luxury,Ras Al Khaimah,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,30,40,75.0
+24560,365 City Haven,Business,Ras Al Khaimah,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,20,26,76.92
+22561,365 Azure Blu,Luxury,Abu Dhabi,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,18,26,69.23
+22564,365 Four Seasons,Business,Abu Dhabi,RT1,Standard,2022-08-01,Aug 22,W 32,weekday,10,16,62.5
